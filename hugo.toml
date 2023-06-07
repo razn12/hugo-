@@ -1,0 +1,6 @@
+baseURL = 'http://rajendraprajapati.com.np/'
+languageCode = 'en-us'
+title = 'RAJENDRA PRAJAPATI'
+
+[params]
+description = 'Learn and explore together'
